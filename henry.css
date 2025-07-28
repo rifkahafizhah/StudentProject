@@ -1,0 +1,16 @@
+h2 {
+    color:white;
+}
+input {
+    color:black;
+}
+label {
+    color:white;
+}
+body {
+    background-image: url('henry.jpg');
+    background-size: cover;
+}
+.gambar1{
+    display: none;
+}
